@@ -1,0 +1,20 @@
+{
+  "name": "goftgoo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "social",
+    "network"
+  ],
+  "author": "Saman Khoshghamat",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.3",
+    "hbs": "^4.0.1",
+    "nodemon": "^1.17.4"
+  }
+}
